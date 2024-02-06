@@ -33,12 +33,12 @@ author = "author"
 
 # main menu
 [[menu.main]]
-name = "Home"
+name = "Trang chủ"
 URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "Giới thiệu"
 URL = "about/"
 weight = 2
 

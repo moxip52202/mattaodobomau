@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/twenty-twenty/site/"
+baseURL = "/"
 title = "Twenty Twenty Hugo - mat tao do bo mau"
 theme = "twenty-twenty-hugo"
 languageName = "En"

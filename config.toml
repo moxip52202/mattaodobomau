@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Twenty Twenty Hugo - mat tao do bo mau"
-theme = "twenty-twenty-hugo"
-languageName = "En"
-languageCode = "en-us"
+title = "Mật Táo Đỏ Bổ Máu"
+# theme = "twenty-twenty-hugo"
+languageName = "Vi"
+languageCode = "vi-vn"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -48,7 +48,7 @@ URL = "blog/"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "Liên hệ"
 URL = "contact/"
 weight = 4
 

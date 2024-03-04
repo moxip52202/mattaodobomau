@@ -1,6 +1,6 @@
 ---
 title: Bí Quyết Ăn Uống Cho Người Thiếu Máu Lên Não
-slug: bí quyết ăn uống cho người thiếu máu lên não
+slug: thieu-mau-len-nao
 date: 2024-03-04T12:48:58.749Z
 image: /images/thiếu-máu-lên-não.webp
 tags:

@@ -2,8 +2,9 @@
 baseURL = "/"
 title = "Mật Táo Đỏ Bổ Máu"
 # theme = "twenty-twenty-hugo"
-languageName = "Vi"
-languageCode = "vi-vn"
+languageName = "Vietnamese"
+languageCode = "vi"
+DefaultContentLanguage = "vi"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -52,14 +53,14 @@ name = "Liên hệ"
 URL = "contact/"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page/"
-weight = 5
+# [[menu.main]]
+# name = "Sample Page"
+# URL = "sample-page/"
+# weight = 5
 
 # only desktop menu
 [[menu.desktop]]
-name = "Contact"
+name = "Liên hệ"
 URL = "contact/"
 weight = 1
 
@@ -81,45 +82,43 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "Mật Táo Đỏ Bổ Máu 100% từ thiên nhiên"
+image = "images/heading.png"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "4 chức năng chính của máu: Vận chuyển chất dinh dưỡng, dẫn truyền tín hiệu (báo đói, báo no, buồn ngủ, tới kỳ rụng dâu…), bảo vệ cơ thể trước các virus, vi khuẩn xâm nhập vào cơ thể, vận chuyển và đào thải rác thải qua gan và thận."
 
 # call to action
 [params.call_to_action]
 enable = true
-title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
-button_url = "contact/"
+title = "Liên hệ với chúng tôi"
+content = '<ul><li>Web: <a href="https://mattaodo.com/">mattaodo.com</a></li><li>Facebook <a href="https://facebook.com/mattaodo">facebook.com/mattaodo</a>.</li></ul>'
+button_label = "Gửi đi"
+button_url = "/"
 
 # gallery
 [params.gallery]
 enable = true
 
 [[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
+image = "images/MTD_SP MOI_01.png"
 
 [[params.gallery.gallery_item]]
-image = "images/2020-square-1.png"
+image = "images/MTD_SP MOI_02.png"
 
 
 # footer
 [params.footer]
-title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
+title = "Giới thiệu"
+content = "Tổng hợp và chia sẻ các kiến thức liên quan về máu giúp bạn hiểu và sống khỏe hơn."
 address = "123 Main Street <br> New York, NY 10001"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+copyright = "Copyright @2018 by mattaodo.com"
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
-twitter = "#"
-instagram = "#"
-email = "#"
-linkedin = "#"
+facebook = "https://facebook.com/mattaodo"
+instagram = "https://www.instagram.com/mattaodobomau"
+email = "mailto:kinhdoanh@tamannatural.vn"
+

@@ -2,7 +2,7 @@
 title: 6 Dấu Hiệu Của Bệnh Thiếu Máu Não
 slug: 6-dau-hieu-cua-benh-thieu-mau-nao
 date: 2024-03-06T08:18:11.690Z
-image: /images/triệu-chứng-thiếu-máu-não-2-.webp
+image: /images/dấu-hiệu-của-bệnh-thiếu-máu-não.webp
 author:
   - Admin
 ---

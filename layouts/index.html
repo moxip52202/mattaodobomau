@@ -36,7 +36,8 @@
               <figure class="wp-block-image alignfull size-full"><img src="{{ .Params.Image |absURL }}"
                   alt="{{.Title }}" class="wp-image-37" /></figure>
               <h3>{{ .Title }}</h3>
-              <p>{{ .PublishDate.Format "02 January, 2006"}}</p>
+              <!-- <p>{{ .PublishDate.Format "02 January, 2006"}}</p> -->
+              <p>{{ dateFormat "02 January, 2006" .PublishDate }}</p>
               <div class="wp-block-button is-style-outline"><a class="wp-block-button__link"
                   href="{{ .Permalink }}">Xem tiếp</a></div>
             </div>

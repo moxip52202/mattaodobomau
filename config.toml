@@ -93,7 +93,7 @@ heading = "4 chức năng chính của máu: Vận chuyển chất dinh dưỡng
 [params.call_to_action]
 enable = true
 title = "Liên hệ với chúng tôi"
-content = '<ul><li>Web: <a href="https://mattaodo.com/">mattaodo.com</a></li><li>Facebook <a href="https://facebook.com/mattaodo">facebook.com/mattaodo</a>.</li></ul>'
+content = '<ul><li>Web: <a href="https://mattaodo.com/">mattaodo.com</a></li><li>Facebook <a href="https://facebook.com/mattaodo">facebook.com/mattaodo</a>.</li></ul><p>Bạn hãy điền nội dung tin nhắn vào form dưới đây và gửi cho chúng tôi. Chúng tôi sẽ trả lời bạn sau khi nhận được.</p>'
 button_label = "Gửi đi"
 button_url = "/"
 

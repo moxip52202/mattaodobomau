@@ -2,7 +2,7 @@
 title: Những Nguyên Nhân Gây Thiếu Máu
 slug: nhung-nguyen-nhan-gay-thieu-mau
 date: 2024-03-22T07:13:18.319Z
-image: /images/20191023_120555_931266_chong-mat-1.max-1800x1800.jpg
+image: /images/untitled-design.png
 author:
   - Admin
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ăn Gì Bổ Máu: 18 Thực Phẩm Tốt Cho Người Thiếu Máu"
-slug: 19-thuc-pham-tot-cho-nguoi-thieu-mau
+slug: 18-thuc-pham-tot-cho-nguoi-thieu-mau
 date: 2024-03-28T05:16:38.146Z
 image: /images/29.png
 tags: []

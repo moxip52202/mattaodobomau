@@ -1,2 +1,3 @@
 User-agent: *
-Allow: /
+
+Sitemap: https://mattaodobomau.com/sitemap.xml
